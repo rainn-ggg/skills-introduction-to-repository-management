@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rainn-ggg
+/src/backend/database.py      @rainn-ggg
+/src/backend/routers/auth.py  @rainn-ggg
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rainn-ggg
